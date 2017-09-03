@@ -1,1 +1,1 @@
-# webpack-express-typscript
+# webpack-express-typescript
